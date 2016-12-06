@@ -1,7 +1,7 @@
 {
   "name": "lodashify-array",
   "version": "1.0.0",
-  "description": "",
+  "description": "Allows you to use lodash methods from the Array prototype.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/test.js"
@@ -14,5 +14,16 @@
   },
   "devDependencies": {
     "mocha": "^3.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrandt1/lodashify-array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pbrandt1/lodashify-array/issues"
+  },
+  "homepage": "https://github.com/pbrandt1/lodashify-array#readme"
 }
